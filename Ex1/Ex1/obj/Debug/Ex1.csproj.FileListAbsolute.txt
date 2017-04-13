@@ -1,0 +1,33 @@
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.LetterGrade.resources
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ex1\Ex1\obj\Debug\Ex1.pdb
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.pdb
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.LetterGrade.resources
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Work\Dropbox\Teaching\Teaching Louisville\CIS199\CourseContent\Others\HA3\Ans\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.pdb
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.LetterGrade.resources
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\Brend\Desktop\Assn3_Templates\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+C:\Users\Brend\Desktop\HA_3 Group_11\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\Brend\Desktop\HA_3 Group_11\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\Brend\Desktop\HA_3 Group_11\Ex1\Ex1\obj\Debug\Ex1.pdb
+C:\Users\bpmcna01\Downloads\Group11_Assn3\Group11_Assn3\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\bpmcna01\Downloads\Group11_Assn3\Group11_Assn3\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\bpmcna01\Downloads\Group11_Assn3\Group11_Assn3\Ex1\Ex1\obj\Debug\Ex1.pdb
